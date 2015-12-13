@@ -13,7 +13,19 @@
 			"suggested_key": {
 				"default": "Alt+P"
 			},
-			"description": "Toggle Tabs pin"
+			"description": "Toggle pinned tab"
+		},
+		"move-tab-left": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+Left"
+			},
+			"description": "Move tab to left"
+		},
+		"move-tab-right": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+Right"
+			},
+			"description": "Move tab to right"
 		}
 	}
 }
