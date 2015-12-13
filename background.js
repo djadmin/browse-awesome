@@ -19,6 +19,8 @@
 		else if (command === 'move-tab-right') {
 			chrome.tabs.query(tabQuery, function (tabs) {
 				var currentTab = tabs[0];
+				// TODO: Move tab to first if current index is the last one
+				// Chrome moves non-existent index to the last
 				chrome.tabs.move(currentTab.id, {'index': currentTab.index + 1});
 			});
 		}
