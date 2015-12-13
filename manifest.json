@@ -17,13 +17,13 @@
 		},
 		"move-tab-left": {
 			"suggested_key": {
-				"default": "Ctrl+Shift+Left"
+				"default": "Alt+Left"
 			},
 			"description": "Moves the current tab to left"
 		},
 		"move-tab-right": {
 			"suggested_key": {
-				"default": "Ctrl+Shift+Right"
+				"default": "Alt+Right"
 			},
 			"description": "Moves the current tab to right"
 		},

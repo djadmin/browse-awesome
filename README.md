@@ -7,10 +7,10 @@ Awesome chrome browser shortcuts which lets you browse in a geeky way. It also a
 > Alt + P
 
 ####Move Tab Left
-> Cmd + Shift + Left
+> Alt + Left
 
 ####Move Tab Right
-> Cmd + Shift + Right
+> Alt + Right
 
 ####Duplicate Current Tab
 > Alt + D
