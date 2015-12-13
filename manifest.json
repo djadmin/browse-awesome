@@ -19,13 +19,19 @@
 			"suggested_key": {
 				"default": "Ctrl+Shift+Left"
 			},
-			"description": "Move tab to left"
+			"description": "Moves the current tab to left"
 		},
 		"move-tab-right": {
 			"suggested_key": {
 				"default": "Ctrl+Shift+Right"
 			},
-			"description": "Move tab to right"
+			"description": "Moves the current tab to right"
+		},
+		"duplicate-tab": {
+			"suggested_key": {
+				"default": "Alt+D"
+			},
+			"description": "Duplicates the current tab"
 		}
 	}
 }
