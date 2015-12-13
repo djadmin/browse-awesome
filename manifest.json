@@ -1,0 +1,19 @@
+{
+	"name": "Browse-Awesome",
+	"version": "0.1",
+	"description": "Creates awesome chrome browser shortcuts which lets you browse in a geeky way. It also allows you to create your own shortcuts.",
+	"author": "Dheeraj Joshi",
+	"manifest_version": 2,
+	"background": {
+		"persistent": false,
+		"scripts": ["background.js"]
+	},
+	"commands": {
+		"toggle-pin": {
+			"suggested_key": {
+				"default": "Alt+P"
+			},
+			"description": "Toggle Tabs pin"
+		}
+	}
+}
