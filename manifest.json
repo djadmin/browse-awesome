@@ -17,13 +17,15 @@
 		},
 		"move-tab-left": {
 			"suggested_key": {
-				"default": "Alt+Left"
+				"default": "Ctrl+Shift+Left",
+				"mac": "MacCtrl+Shift+Left"
 			},
 			"description": "Moves the current tab to left"
 		},
 		"move-tab-right": {
 			"suggested_key": {
-				"default": "Alt+Right"
+				"default": "Ctrl+Shift+Right",
+				"mac": "MacCtrl+Shift+Right"
 			},
 			"description": "Moves the current tab to right"
 		},
