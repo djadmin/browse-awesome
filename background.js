@@ -24,11 +24,11 @@
 				chrome.tabs.move(currentTab.id, {'index': currentTab.index + 1});
 			});
 		}
-		else if (command === 'duplicate=tab') {
+		else if (command === 'duplicate-tab') {
 			chrome.tabs.query(tabQuery, function (tabs) {
 				var currentTab = tabs[0];
 				chrome.tabs.duplicate(currentTab.id);
-			})
+			});
 		}
 	});
 })();
